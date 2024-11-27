@@ -1,6 +1,9 @@
 <!doctype html>
 <html>
 	<head>
+		<title>Ejercicio de prueba de Github</title>
+		<meta charset="utf-8">
+		<meta type="descripcion" content="Esta es una descripcion">
 	</head>
 	<body>
 		<h1>Yo soy Jose Vicente  en el archivo principal</h1>

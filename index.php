@@ -1,6 +1,7 @@
 <!doctype html>
 <html>
 	<head>
+		<title>Ejercicio de prueba de Github</title>
 	</head>
 	<body>
 		<h1>Yo soy Jose Vicente  en el archivo principal</h1>

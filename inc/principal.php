@@ -14,6 +14,7 @@
 	main p{
 		color: #c2a464;
 		font-size:10px;
+		text-align:justify;
 	}
 </style>
 <!-- Pon a continuacion tu contenido -->
